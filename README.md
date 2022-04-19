@@ -1,70 +1,84 @@
-# Getting Started with Create React App
+The designs were created to the following widths:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Mobile: 375px
+- Desktop: 1440px
 
-## Available Scripts
+## Colors
 
-In the project directory, you can run:
+### Primary
 
-### `npm start`
+- Pink: hsl(322, 100%, 66%)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Neutral
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Very Pale Cyan: hsl(193, 100%, 96%)
+- Very Dark Cyan: hsl(192, 100%, 9%)
+- Grayish Blue: hsl(208, 11%, 55%)
 
-### `npm test`
+## Typography
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Body Copy
 
-### `npm run build`
+- Font size: 18px
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Headings
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Family: [Poppins](https://fonts.google.com/specimen/Poppins)
+- Weights: 600
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Body, Call-to-actions
 
-### `npm run eject`
+- Family: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
+- Weights: 400, 700
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Icons
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+For the social icons, you can use a font icon library. Some suggestions can be found below:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- [Font Awesome](https://fontawesome.com/)
+- [IcoMoon](https://icomoon.io/)
+- [Ionicons](https://ionicons.com/)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+  Try It Free
 
-## Learn More
+  Build The Community Your Fans Will Love
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+  Huddle re-imagines the way we build communities. You have a voice, but so does your audience.
+  Create connections with your users as you engage in genuine discussion.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+  Get Started For Free
 
-### Code Splitting
+  Grow Together
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+  Generate meaningful discussions with your audience and build a strong, loyal community.
+  Think of the insightful conversations you miss out on with a feedback form.
 
-### Analyzing the Bundle Size
+  Flowing Conversations
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+  You wouldn't paginate a conversation in real life, so why do it online? Our threads
+  have just-in-time loading for a more natural flow.
 
-### Making a Progressive Web App
+  Your Users
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+  It takes no time at all to integrate Huddle with your app's authentication solution.
+  This means, once signed in to your app, your users can start chatting immediately.
 
-### Advanced Configuration
+  Ready To Build Your Community?
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+  Get Started For Free
 
-### Deployment
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+  incididunt ut labore et dolore magna aliqua
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+  +1-543-123-4567
+  example@huddle.com
 
-### `npm run build` fails to minify
+  About Us
+  What We Do
+  FAQ
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  Career
+  Blog
+  Contact Us
+
+  &copy; Copyright 2018 Huddle. All rights reserved.
